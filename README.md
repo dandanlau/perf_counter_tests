@@ -7,7 +7,7 @@ Find out what counters or events are enabled in VMs. Customers often see counter
 
 These scripts and processes outlined will help identify the list of counters that might be blocked.
 
-Prerequesites
+Prerequesites  
 Install JQ: sudo apt-get install jq  
 Install benchmark or applications that you want to run: stress-ng/coremark etc. Attached in the folder is a simple load/store memory access program  
 
